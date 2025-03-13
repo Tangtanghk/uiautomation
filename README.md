@@ -1,4 +1,4 @@
-## QPP Automation Framework with Playwright
+## Automation Framework with Playwright
 
 ![alt text](./playwright-logo.png)
 

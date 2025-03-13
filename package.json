@@ -1,0 +1,32 @@
+{
+    "name": "qp-test-framework",
+    "version": "1.0.0",
+    "description": "Page Object Model with playwright",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx playwright test"
+    },
+    "author": "QPP IT",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.40.1",
+        "@types/node": "^20.10.5",
+        "playwright": "^1.42.1"
+    },
+    "dependencies": {
+        "@napi-rs/canvas": "^0.1.51",
+        "axios": "^1.7.2",
+        "canvas": "^2.11.2",
+        "exceljs": "^4.4.0",
+        "express": "^4.19.2",
+        "form-data": "^4.0.0",
+        "fs-extra": "^11.2.0",
+        "gm": "^1.25.0",
+        "jimp": "^0.22.12",
+        "merge-images": "^2.0.0",
+        "@types/node": "20.10.5",
+        "sharp": "^0.33.4",
+        "turbodepot-node": "^7.0.3",
+        "xlsx": "^0.18.5"
+    }
+}
